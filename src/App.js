@@ -1,4 +1,5 @@
 import './App.css';
+import React  from 'react';
 import { useEffect, useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Preloader from '../src/components/Pre'

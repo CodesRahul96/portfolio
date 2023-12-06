@@ -261,6 +261,7 @@
 
 @media (min-width: 590px) {
   .homepagebackground {
+    width: 100%;
     height: 100vh;
   }
 }

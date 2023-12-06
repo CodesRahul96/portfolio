@@ -140,7 +140,6 @@
 }
 
 /* Homepage style */
-
 .homepagebackground {
   width: 100%;
   height: 100%;
@@ -265,8 +264,6 @@
 .icon {
   font-size: 30px;
 }
-
-/* HomePage style */
 
 @media (max-width: 767px) {
   .homepagebackground {

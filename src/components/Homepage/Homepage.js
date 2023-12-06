@@ -1,7 +1,7 @@
 import React from 'react'
 import '../../pages/style.css';
 import { Container, Row, Col } from 'react-bootstrap'
-import Text from '../Homepage/Text'
+import Text from './Text'
 import {
   AiFillGithub,
   AiOutlineTwitter,
@@ -11,8 +11,8 @@ import { FaLinkedinIn } from "react-icons/fa";
 
 function Home() {
   return (
-    <div className='homepagebackground'>
-      <Container>
+    <div className='homepagebackground' >
+      <div className='container' style={{height: "100%"}}>
         <Row>
           <Col md={7}>
             <h2 className='headtext'>Hello <span className='wave'>👋 </span></h2>
@@ -42,7 +42,7 @@ function Home() {
             </div>
           </Col>
         </Row>
-      </Container>
+      </div>
     </div>
   );
 }

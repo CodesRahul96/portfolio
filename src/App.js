@@ -3,7 +3,7 @@ import React  from 'react';
 import { useEffect, useState } from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Preloader from '../src/components/Pre'
-import Home from './pages/Home.js'
+import Home from './pages/Home'
 import About from './pages/About'
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { motion } from 'framer-motion';

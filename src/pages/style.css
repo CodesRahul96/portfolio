@@ -103,6 +103,16 @@
   border: none;
 }
 
+.resumeText{
+  font-weight: bold;
+  color: lightyellow;
+  text-transform: uppercase;
+}
+.resumebtn,
+.resumeText:hover{
+  color: yellow;
+}
+
 @media (max-width: 767px) {
   .navbar {
     padding: 1rem 0rem !important;

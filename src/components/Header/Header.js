@@ -4,6 +4,8 @@ import Nav from "react-bootstrap/Nav";
 import Navbar from "react-bootstrap/Navbar";
 import { Link, NavLink } from "react-router-dom";
 import "../../pages/style.css";
+import { IoCloudDownload } from "react-icons/io5";
+
 
 function Header() {
   const [expand, updateExpanded] = useState(false);
@@ -90,7 +92,7 @@ function Header() {
             }}
             className="resumebtn"
           >
-            <span>Resume</span>
+            <span className="resumeText">CV <IoCloudDownload /></span>
           </Button>
         </Nav>
       </Navbar.Collapse>

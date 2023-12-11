@@ -22,7 +22,7 @@ function Projectlist() {
                 isBlog={false}
                 title="Portfolio"
                 description="A portfolio website is a curated, online space that showcases your best work. It's one of the most practical and memorable ways to share your work with press, potential collaborators or employers. Much like your PDF portfolio, a portfolio website can be used when applying for jobs or internships."
-                ghLink="https://coderrahul.netlify.app/"
+                ghLink="https://codesrahul.netlify.app/"
               />
             </Col>
 
@@ -43,7 +43,7 @@ function Projectlist() {
                 isBlog={false}
                 title="Netflix-Clone"
                 description="Netflix-Clone project is a simplified front-end clone of Netflix. It was created with React js. It uses TMDB (The Movie Data Base ) API and uses the Axios tool. Users can click movie images with embedded YouTube trailers or related videos about the movie."
-                ghLink="https://coderrahul-netflixclone.netlify.app/"
+                ghLink="https://cr-netflixclone.netlify.app/"
               />
             </Col>
 
@@ -64,7 +64,7 @@ function Projectlist() {
                 isBlog={false}
                 title="ToDo List"
                 description=" To-Do App that build will allow a user to add a task to a list of to-do items. Once the task is added, the user will be able to delete it as completed once it has done."
-                ghLink="https://codesrahul-todolist.netlify.app/"
+                ghLink="https://cr-todolist.netlify.app/"
 
               />
             </Col>
@@ -75,7 +75,7 @@ function Projectlist() {
                 isBlog={false}
                 title="Image Gallary"
                 description="Image Gallary is an image gallery is a collection of images that are organized in a specific way. Image galleries can be used to store and display pictures.."
-                ghLink="https://codesrahul-imagegallary.netlify.app/"
+                ghLink="https://cr-imagegallary.netlify.app/"
               />
             </Col>
 

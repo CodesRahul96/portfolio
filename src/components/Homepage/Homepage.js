@@ -16,7 +16,7 @@ function Home() {
         <Row>
           <Col md={7}>
             <h2 className='headtext'>Hello <div className='wave'>👋 </div></h2>
-            <h2 className='nametext'>I'm Coder Rahul</h2>
+            <h2 className='nametext'>I'm Codes Rahul</h2>
             <span></span>
             <Text />
             <button onClick={() => {

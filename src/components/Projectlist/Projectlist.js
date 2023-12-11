@@ -6,8 +6,8 @@ import VideoX from '../../Assets/videox.png'
 import StreamCR from '../../Assets/cr-tv.png'
 import netfliximage from '../../Assets/React-App-netflix-clone.png'
 import Portfolio from '../../Assets/potfolio.png'
-import charlespizza from '../../Assets/Charlestown-Pizza.png'
-import todolist from '../../Assets/todolist.png'
+import ToDoList from '../../Assets/todolist.png'
+import ImageGallary from '../../Assets/ImageGallary.png'
 
 function Projectlist() {
   return (
@@ -32,7 +32,7 @@ function Projectlist() {
                 isBlog={false}
                 title="VideoX App"
                 description="
-                VideoX APP is a movie web application project that involves creating components to display a list of movies and series details about each movie or series along with a search functionality.VideoX App is an online database of information related to films, television series, podcasts, home videos and streaming content online including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews."
+                VideoX App is an online database of information related to films, television series, podcasts, home videos and streaming content online including cast, production crew and personal biographies, plot summaries, trivia, ratings, and fan and critical reviews details about each movie or series along with a search functionality."
                 ghLink="https://videox.netlify.app/"
               />
             </Col>
@@ -60,24 +60,25 @@ function Projectlist() {
 
             <Col md={4} className="project-card">
               <ProjectCard
-                imgPath={todolist}
+                imgPath={ToDoList}
                 isBlog={false}
-                title="To Do List"
+                title="ToDo List"
                 description=" To-Do App that build will allow a user to add a task to a list of to-do items. Once the task is added, the user will be able to delete it as completed once it has done."
-                ghLink="https://github.com/coderrahul-github"
+                ghLink="https://codesrahul-todolist.netlify.app/"
 
               />
             </Col>
 
-            {/* <Col md={4} className="project-card">
+            <Col md={4} className="project-card">
               <ProjectCard
-                imgPath={olximage}
+                imgPath={ImageGallary}
                 isBlog={false}
-                title="Olx-Clone"
-                description="Olx-clone builds with react js. using firebase as a backend and deploying in firebase. Olx-Clone is a potential classified advertisement website that categorizes objects in a user-friendly manner & displays them as advertisements.. Classifieds can be posted that involve selling, and buying using React-router, context, react hooks."
-                ghLink="https://github.com/coderrahul-github"
+                title="Image Gallary"
+                description="Image Gallary is an image gallery is a collection of images that are organized in a specific way. Image galleries can be used to store and display pictures.."
+                ghLink="https://codesrahul-imagegallary.netlify.app/"
               />
-            </Col> */}
+            </Col>
+
           </Row>
         </Container>
       </Container>

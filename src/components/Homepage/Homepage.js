@@ -1,6 +1,6 @@
 import React from 'react'
 import '../../pages/style.css';
-import { Container, Row, Col } from 'react-bootstrap'
+import {  Row, Col } from 'react-bootstrap'
 import Text from './Text'
 import {
   AiFillGithub,

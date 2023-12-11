@@ -49,7 +49,8 @@ function App() {
   }, []);
 
   return (
-    <div className="App">
+    <div cl
+    assName="App">
       <motion.div
         className="cursor"
         variants={variants}

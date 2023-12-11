@@ -1,6 +1,6 @@
 import React from 'react'
 import '../../pages/style.css';
-import {  Row, Col } from 'react-bootstrap'
+import { Row, Col } from 'react-bootstrap'
 import Text from './Text'
 import {
   AiFillGithub,
@@ -15,7 +15,7 @@ function Home() {
       <div className='container' style={{height: "100%"}}>
         <Row>
           <Col md={7}>
-            <h2 className='headtext'>Hello <span className='wave'>👋 </span></h2>
+            <h2 className='headtext'>Hello <div className='wave'>👋 </div></h2>
             <h2 className='nametext'>I'm Coder Rahul</h2>
             <span></span>
             <Text />

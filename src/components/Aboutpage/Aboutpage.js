@@ -17,14 +17,17 @@ function Aboutpage() {
                                 <h3>Skills</h3>
                                 <Col md={7}>
                                     <li>HTML5/CSS3</li>
-                                    <li>JavaScript</li>
+                                    <li>JavaScript/TypeScript</li>
                                     <li>jQuery</li>
                                     <li>Bootsrap 5</li>
+                                    <li>SQL</li>
+                                    <li>MondoDB</li>
                                 </Col>
                                 <Col md={5}>
                                     <li>React Js</li>
-                                    <li>Redux Js</li>
-                                    <li>React-Bootsrap</li>
+                                    <li>React Native</li>
+                                    <li>Node Js</li>
+                                    <li>Express JS</li>
                                     <li>Material-ui</li>
                                     <li>Git/Github</li>
                                 </Col>

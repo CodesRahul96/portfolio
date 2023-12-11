@@ -5,7 +5,7 @@ import { Container, Row, Col } from 'react-bootstrap'
 import VideoX from '../../Assets/videox.png'
 import StreamCR from '../../Assets/cr-tv.png'
 import netfliximage from '../../Assets/React-App-netflix-clone.png'
-import Portfolio from '../../Assets/potfolio.png'
+import Portfolio from '../../Assets/portfolio.png'
 import ToDoList from '../../Assets/todolist.png'
 import ImageGallary from '../../Assets/ImageGallary.png'
 

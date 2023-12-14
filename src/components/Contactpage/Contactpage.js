@@ -16,7 +16,7 @@ function Contactpage() {
         <button
           className="contactbtn"
           onClick={() => {
-            window.open("https://www.linkedin.com/in/coder-rahul/");
+            window.open("https://www.linkedin.com/in/codesrahul/");
           }}
         >
           Say Hello
@@ -25,7 +25,7 @@ function Contactpage() {
         <p className="copyright">
           © Copyright 2023
           <hr />
-          Designed & Built by <span>coderrahul</span>
+          Designed & Built by <span>CodesRahul</span>
         </p>
       </Container>
     </div>

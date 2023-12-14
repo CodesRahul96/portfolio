@@ -20,11 +20,11 @@ function Home() {
             <span></span>
             <Text />
             <button onClick={() => {
-              window.open("https://github.com/coderrahul-github");
+              window.open("https://github.com/CodesRahul");
             }}
               className='socailmediabtn'><AiFillGithub className='icon' /></button>
             <button onClick={() => {
-              window.open("https://www.linkedin.com/in/coder-rahul/");
+              window.open("https://www.linkedin.com/in/codesrahul/");
             }}
               className='socailmediabtn'><FaLinkedinIn className='icon' /></button>
             <button onClick={() => {

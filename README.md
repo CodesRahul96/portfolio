@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-Live Portfolio Link: https://coderrahul.netlify.app/
+Live Portfolio Link: https://codesrahul.netlify.app/
 #
 
 ![Rahul-Portfolio](https://github.com/coderrahul-github/Portfolio/blob/main/src/Assets/portfolio.png?raw=true)

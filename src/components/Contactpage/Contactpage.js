@@ -23,7 +23,7 @@ function Contactpage() {
         </button>
         <span></span>
         <p className="copyright">
-          © Copyright 2023
+          © Copyright {(new Date().getFullYear())}
           <hr />
           Designed & Built by <span>CodesRahul</span>
         </p>

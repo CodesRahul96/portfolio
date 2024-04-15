@@ -1,5 +1,5 @@
-import React from 'react'
-import '../../pages/style.css';
+import React from "react";
+import "../../pages/style.css";
 import Typewriter from "typewriter-effect";
 
 function Text() {
@@ -7,18 +7,18 @@ function Text() {
     <Typewriter
       options={{
         strings: [
-          "MERN STACK Developer",
           "Front End Developer",
+          "WordPress Developer",
           "React Js Developer",
           "React Native Developer",
-          "UI/UX Developer",
+          "MERN STACK Developer",
         ],
         autoStart: true,
         loop: true,
         deleteSpeed: 50,
       }}
     />
-  )
+  );
 }
 
-export default Text
+export default Text;

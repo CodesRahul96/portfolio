@@ -109,12 +109,12 @@
 }
 .resumebtn,
 .resumeText:hover{
-  color: yellow;
+  color: rgb(251, 243, 84);
 }
 
 @media (max-width: 767px) {
   .navbar {
-    padding: 1rem 0rem !important;
+    padding: 0rem 0rem !important;
     background-color: transparent !important;
   }
 
@@ -290,7 +290,7 @@
   }
 
   .Typewriter__wrapper {
-    font-size: 1.9em !important;
+    font-size: 1.7em !important;
   }
 
   .Typewriter__cursor {

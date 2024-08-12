@@ -18,7 +18,7 @@ function Home() {
             <h2 className='headtext'>Hello 
               <span role='img' className='wave' aria-label='wave'>👋</span>
               </h2>
-            <h2 className='nametext'>I'm Rahul Misal <span role='img' className='emoji' aria-label='emoji'>🙂</span></h2>
+            <h2 className='nametext'>I'm Codes Rahul <span role='img' className='emoji' aria-label='emoji'>🙂</span></h2>
             <span></span>
             <Text />
             <button onClick={() => {

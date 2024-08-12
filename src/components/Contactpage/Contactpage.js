@@ -23,9 +23,10 @@ function Contactpage() {
         </button>
         <span></span>
         <p className="copyright">
-          © Copyright {(new Date().getFullYear())}
           <hr />
           Designed & Built by <span>CodesRahul</span>
+          <br />
+          © Copyright {(new Date().getFullYear())}
         </p>
       </Container>
     </div>

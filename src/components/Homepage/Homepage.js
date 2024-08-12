@@ -15,8 +15,10 @@ function Home() {
       <div className='container' style={{height: "100%"}}>
         <Row>
           <Col md={7}>
-            <h2 className='headtext'>Hello <div className='wave'>👋 </div></h2>
-            <h2 className='nametext'>I'm Codes Rahul</h2>
+            <h2 className='headtext'>Hello 
+              <span role='img' className='wave' aria-label='wave'>👋</span>
+              </h2>
+            <h2 className='nametext'>I'm Rahul Misal <span role='img' className='emoji' aria-label='emoji'>🙂</span></h2>
             <span></span>
             <Text />
             <button onClick={() => {

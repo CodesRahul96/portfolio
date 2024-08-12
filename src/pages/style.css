@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 /* Header style */
-
 .navbar {
   width: 100%;
   height: 100px;
@@ -150,7 +149,6 @@
 }
 
 
-
 /* Homepage style */
 .homepagebackground {
   width: 100%;
@@ -160,7 +158,7 @@
   background-color: #4158d0;
   background-image: linear-gradient(43deg,
       #4158d0 0%,
-      #c850c0 46%,
+      #c850c0 45%,
       #ffcc70 100%);
   padding-top: 110px;
 }
@@ -255,8 +253,11 @@
   max-width: 550px;
   height: 400px;
   background-image: url(../Assets/Web-designer-1024x821.webp);
-  background-size: cover;
+  /* background-image: url(../Assets/programmer.png); */
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
+
 }
 
 .socailmediabtn {

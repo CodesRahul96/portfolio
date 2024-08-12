@@ -7,11 +7,13 @@ function Text() {
     <Typewriter
       options={{
         strings: [
-          "Front End Developer",
-          "WordPress Developer",
-          "React Js Developer",
-          "React Native Developer",
-          "MERN STACK Developer",
+          "Front-End Developer 🧑‍💻",
+          "MERN STACK Developer 💻",
+          "React Native Developer 📱",
+          "WordPress Developer 📰",
+          "Freelancer 🧑‍💼",
+          "Hardware and Network Engineer 🖥️",
+          "Ethical Hacker 😜",
         ],
         autoStart: true,
         loop: true,
